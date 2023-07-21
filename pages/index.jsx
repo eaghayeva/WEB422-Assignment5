@@ -23,7 +23,7 @@ export default function Home() {
       <Container>
           <Row>
               <Col className='text-center'>
-                  <Image className='neon-glow' width="80%" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg" rounded /><br /><br /><br />
+                  <Image className='neon-glow' width="80%" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg" alt="Metropolitan Museum of Art" rounded /><br /><br /><br />
               </Col>
           </Row>
           <Row>

@@ -5,6 +5,7 @@ import { useAtom } from 'jotai';
 import { favouritesAtom } from '@/store';
 import { useState } from 'react';
 import { Button } from 'react-bootstrap';
+import Error from 'next/error'; 
 
 export default function ArtworkCardDetail({ objectID }) {
     // Get a reference to the favourites list

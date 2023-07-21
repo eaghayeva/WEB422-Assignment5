@@ -18,7 +18,7 @@ export default function Favourites() {
     // Create a 2D array of data for paging that is set in the state 
     useEffect(() => {
             setArtworkList(favourites);
-    }, []);
+    }, [favourites]);
 
     return (
         <>
