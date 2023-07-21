@@ -7,7 +7,7 @@
 *  Name: ______Emiliya Aghayeva________________ Student ID: ____148398217______________ Date: _____21/07/2023_______________
 *
 * Github:
-* Netlify:
+* Netlify: https://64baa23d0bb9be00082275f5--kaleidoscopic-kataifi-e74b83.netlify.app/
 ********************************************************************************/ 
 
 
